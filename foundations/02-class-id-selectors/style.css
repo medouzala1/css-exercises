@@ -1,0 +1,19 @@
+.oddpara {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  #evendiv1 {
+    color: blue;
+    font-size: 36px;
+  }
+  
+  .num3 {
+    font-size: 24px;
+  }
+  
+  #evendiv2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+  }
